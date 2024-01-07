@@ -54,7 +54,7 @@
 - Dynamic Routes: 🖐️ used
 - Image Optimization: 🖐️ used
 - Next.js Router: 🖐️ used
-- Deployment (Vercel, Netlify, etc.): 🖐️ used
+- Deployment (Vercel, Netlify, Heroku etc.): 🖐️ used
 
 ## Electron
 
